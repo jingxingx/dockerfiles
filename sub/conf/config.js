@@ -1,7 +1,7 @@
 window.config = {
   siteName: 'Subconverter Web',
   apiUrl: 'http://127.0.0.1:25500',
-  shortUrl: 'https://sub.1024im.com:8888',
+  shortUrl: 'https://sub.1024im.com',
   menuItem: [
     {
       title: '首页',
@@ -10,7 +10,7 @@ window.config = {
     },
     {
       title: '短链接',
-      link: 'https://sub.1024im.com:8888',
+      link: 'https://sub.1024im.com',
       target: '_blank',
     },
     {
