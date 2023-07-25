@@ -13,7 +13,7 @@ services:
     image: stilleshan/myurls:latest
     # container_name: myurls
     environment:
-      - MYURLS_DOMAIN=s.ops.ci
+      - MYURLS_DOMAIN=sub.1024im.com
       - MYURLS_TTL=365
     volumes:
       - ./data/myurls/logs:/app/logs    
